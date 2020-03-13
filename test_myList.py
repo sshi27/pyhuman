@@ -1,5 +1,5 @@
 from unittest import TestCase
-from __init__ import *
+from pyhuman import *
 
 
 class TestMyList(TestCase):
